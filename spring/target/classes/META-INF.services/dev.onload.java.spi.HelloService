@@ -1,0 +1,4 @@
+#Hello implementation
+dev.onload.java.spi.impl.HelloServiceImpl
+# World implementation
+dev.onload.java.spi.impl.WorldServiceImpl
