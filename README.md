@@ -26,4 +26,4 @@ sql文件夹里的sql语句是demo所需sql
 
 
 ## javaagent&javassist
-![《JavaAgent和Javassist》，可复制链接后用石墨文档 App 或小程序打开](https://shimo.im/docs/QkrDtyKvgVvPcXWY/)
+[《JavaAgent和Javassist》](https://shimo.im/docs/QkrDtyKvgVvPcXWY/)
